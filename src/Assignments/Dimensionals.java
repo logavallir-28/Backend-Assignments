@@ -6,8 +6,6 @@ public class Dimensionals {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		// 1. 1D Array-Student Marks
 
 
 
@@ -47,7 +45,7 @@ public class Dimensionals {
             }
         }
 
-        System.out.println("\nAll Student Marks:");
+        System.out.println("\n All Student Marks:");
 
         for (int i = 0; i < 10; i++) {
             System.out.println(marks[i]);
