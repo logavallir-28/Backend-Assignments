@@ -88,6 +88,8 @@ public class loopsandconditions {
 		    } else {
 		    System.out.println("Both numbers are equal");
 		        }
+		    sc.close();
+
 	        
 		}
 		
